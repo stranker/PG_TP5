@@ -1,8 +1,8 @@
 
 \.vs/
 
+Debug/
+
 obj/
 
-bin/
-
-HighscoreGUI/Debug/
+Libs/nana_x86
